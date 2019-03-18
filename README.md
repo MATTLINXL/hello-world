@@ -1,6 +1,6 @@
 # hello-world（with self introduction）
 This is my first project.</br>
-I am a designer who is distributed in both user-interface design and user experiment design. For me, design is not a wall but a brigde to the path of elegant, logical solutions.</br>
+I am a designer who is distributed in both user-interface design and user experiment design. Personally, design is not a wall but a brigde to the path of elegant, logical solutions.</br>
 Empathy is a word full of great mysterious and enchantment, and also a way I need to seek for my entire life. To understand the world isn't just questioning about who we are, but also embrace the world with passion whether it's your stunning moment or a failure part.</br>
 Also, I know a little bit knowledge about Swift coding ,C++, C#, Java, cause I major software engineering in my undergraduate period.</br>
 </br>
